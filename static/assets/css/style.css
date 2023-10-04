@@ -1,0 +1,199 @@
+#header-title, .h3-space-bg {
+    background-image: url('../images/space.jpg');
+    background-size: cover; /* This will scale the image to cover the entire element */
+    background-position: center center; /* This centers the image both horizontally and vertically */
+    background-repeat: no-repeat; /* This prevents the image from repeating */
+    /* You can also set a fixed height if needed */
+    /*height: 199px; /* Adjust the height as per your design */
+    padding: 2.3rem;
+}
+
+.title {
+    background-color: #fff;
+    border: 0.1rem solid #AEFAFC;
+    border-radius: 0.3rem;
+    color: #9126E8;
+    font-family: 'Cardo';
+    font-size: 1.7rem;
+    font-weight: 900;
+    margin: 0;
+    text-decoration: underline;
+}
+
+/* .jumbotron */
+#content > div > div {
+    margin: 0;
+}
+
+.jumbotron {
+  animation: color-change 10s linear infinite;
+  background-color: #47FFAC;
+  border: 0.1rem solid #1295FA;
+  margin: 1rem 0;
+}
+
+@keyframes color-change {
+  25% {
+    background-color: #FC5378;
+  }
+
+  50% {
+    background-color: #4044E6;
+  }
+
+  100% {
+    background-color: #47FFAC;
+  }
+}
+
+header.masthead {
+  margin-bottom: 19px;
+  background: no-repeat center center;
+  background-color: #868e96;
+  background-attachment: scroll;
+  position: relative;
+  background-size: cover;
+}
+
+header.masthead .overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background-color: #212529;
+  opacity: 0.5;
+}
+
+header.masthead .page-heading,
+header.masthead .post-heading,
+header.masthead .site-heading {
+  font-family: 'Merriweather', sans-serif;
+  padding: 91px 0 91px;
+  color: #AEFAFC;
+}
+
+header.masthead .site-heading, .section1 {
+    padding: 3px 0;
+}
+
+@media only screen and (min-width: 768px) {
+  header.masthead .page-heading,
+  header.masthead .post-heading,
+  header.masthead .site-heading {
+    padding: 200px 0;
+  }
+}
+
+header.masthead .page-heading,
+header.masthead .site-heading {
+  text-align: center;
+}
+
+header.masthead .page-heading h1,
+header.masthead .site-heading h1 {
+  font-size: 50px;
+  margin-top: 0;
+}
+
+body h2 {
+    color: #1295FA;
+    font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+body .h3-space-bg {
+    color: #AEFAFC;
+    font-family: 'Montserrat', sans-serif;
+    font-display: swap;
+}
+
+body h5 {
+    color: #1295FA;
+    font-family: 'Lora', 'Times New Roman', serif;
+}
+
+p {
+    font-family: 'Cardo';
+    font-weight: 500;
+}
+
+.p-mr-btm {
+    margin-bottom: 0;
+}
+
+span {
+    color: #9126E8;
+    font-family: 'Lora', 'Times New Roman', serif;
+}
+
+/* the first li tag */
+body > div.content > div.container-fluid > ul > li:nth-child(1) {
+    margin-top: 0;
+}
+
+/* Apply background colors to even and odd rows */
+.striped-table tbody tr:nth-child(even) {
+    background-color: #f0f0f0;
+}
+
+.striped-table tbody tr:nth-child(odd) {
+    background-color: #e0e0e0;
+}
+
+th, td {
+    font-family: 'Lora', 'Times New Roman', serif;
+    padding: 0.3rem;
+}
+
+button.btn {
+    border: 0.1rem solid #AEFAFC;
+    color: #AEFAFC;
+}
+
+li {
+    border-radius: 0.3rem;
+    margin-top: 1rem;
+}
+
+body hr {
+    border: 0.05rem solid #1295FA;
+    margin: 1rem auto;
+    width: 73%;
+}
+
+#footer {
+    background-image: url('../images/space.jpg');
+    background-size: cover; /* This will scale the image to cover the entire element */
+    background-position: center center; /* This centers the image both horizontally and vertically */
+    background-repeat: no-repeat; /* This prevents the image from repeating */
+    /* You can also set a fixed height if needed
+    height: 199px; /* Adjust the height as per your design */
+}
+
+.fa-inverse {
+    background-color: #9126E8;
+    border: 0.1rem solid #AEFAFC;
+    border-radius: 55%;
+    color: #fff;
+    margin-top: 0.5rem;
+}
+
+.fa-inverse:hover {
+    color: #6ABFA6;
+    width: 3.7rem;
+}
+
+.fas {
+    color: transparent !important;
+}
+
+span.copyright {
+    background-color: #fff;
+    border: 0.1rem solid #AEFAFC;
+    border-radius: 0.3rem;
+    color: #9A30F3;
+    font-family: 'Cardo';
+    padding: 0.1rem 0.7rem;
+    text-decoration: None;
+}
+# --------------------------------------------------- 🔥👌🏿💚😇❤️🔥 ---------------------------------------------------#
